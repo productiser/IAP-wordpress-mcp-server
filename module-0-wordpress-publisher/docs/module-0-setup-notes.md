@@ -75,21 +75,6 @@
 ✅ **WordPress REST API publishing** - Drafts or live posts
 ✅ **Multi-tenant architecture** - Customer ID isolation from day 1
 
----
-
-## Real Talk
-
-**This won't make your blog successful.** It removes one tedious task (manual publishing). You still need:
-- Content that people want to read
-- SEO that actually works
-- Affiliate links that convert
-- Traffic (the hard part)
-- Patience (6-12 months minimum)
-
-Automating a bad blog just means you publish bad content faster.
-
-**This is only worth it if you enjoy troubleshooting connection errors at 11pm.**
-
 
 
 ---
